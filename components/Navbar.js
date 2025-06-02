@@ -1,19 +1,21 @@
-"use client"
-import Link from "next/link"
-import { useSelector } from "react-redux"
-import { ShoppingCart, Wallet, Home } from "lucide-react"
+"use client";
+import Link from "next/link";
+import { useSelector } from "react-redux";
+import { ShoppingCart, Wallet, Home } from "lucide-react";
 
 export default function Navbar() {
-  const balance = useSelector((state) => state.wallet.balance)
+  const balance = useSelector((state) => state.wallet.balance);
 
   return (
-    <nav className="bg-white shadow-lg border-b">
+    <nav className="fixed top-0 left-0 w-full z-50 bg-white shadow-lg border-b">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between h-16">
           <div className="flex items-center">
             <Link href="/" className="flex items-center space-x-2">
               <ShoppingCart className="h-8 w-8 text-blue-600" />
-              <span className="text-xl font-bold text-gray-900">Platform X</span>
+              <span className="text-xl font-bold text-gray-900">
+                Platform X
+              </span>
             </Link>
           </div>
 
@@ -40,5 +42,5 @@ export default function Navbar() {
         </div>
       </div>
     </nav>
-  )
+  );
 }
