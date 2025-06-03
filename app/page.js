@@ -24,7 +24,7 @@ export default function HomePage() {
     <div className="relative w-full bg-white h-screen">
       <SoftGradientBlur />
       <SoftGradientBlurRight />
-      <div className="max-w-7xl mt-[70px] mx-auto px-4 sm:px-6 lg:px-8 py-8">
+      <div className="relative z-1 max-w-7xl mt-[70px] mx-auto px-4 sm:px-6 lg:px-8 py-8">
         <div className="mb-8">
           <h1 className="text-3xl font-bold text-gray-900 mb-2">
             Discover Amazing Projects

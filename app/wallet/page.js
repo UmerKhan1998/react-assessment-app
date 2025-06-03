@@ -59,7 +59,7 @@ export default function WalletPage() {
         </div>
       </div>
 
-      <div className="bg-white rounded-lg shadow-md">
+      <div className="relative z-1 bg-white rounded-lg shadow-md">
         <div className="px-6 py-4 border-b">
           <h2 className="text-xl font-semibold text-gray-900">
             Purchase History
