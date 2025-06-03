@@ -1,6 +1,7 @@
 "use client";
 import { useSelector } from "react-redux";
 import { Wallet, CreditCard, Download, Calendar } from "lucide-react";
+import SoftGradientBlur from "../../components/SoftGradientBlurLeft";
 
 export default function WalletPage() {
   const balance = useSelector((state) => state.wallet.balance);
@@ -12,6 +13,7 @@ export default function WalletPage() {
   );
 
   return (
+    <div className="relative w-full bg-white h-screen">
     <div className="max-w-4xl mt-[70px] mx-auto px-4 sm:px-6 lg:px-8 py-8">
       <div className="mb-8">
         <h1 className="text-3xl font-bold text-gray-900 mb-2">My Wallet</h1>
@@ -19,6 +21,7 @@ export default function WalletPage() {
           Manage your balance and view purchase history
         </p>
       </div>
+      <SoftGradientBlur />
 
       <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mb-8">
         <div className="bg-gradient-to-r from-blue-500 to-blue-600 rounded-lg p-6 text-white">
@@ -107,6 +110,7 @@ export default function WalletPage() {
           )}
         </div>
       </div>
+    </div>
     </div>
   );
 }
