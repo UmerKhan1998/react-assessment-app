@@ -151,7 +151,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👨‍💻 Author
 
-Muhammad Umer Khan - [GitHub Profile]([https://github.com/yourusername](https://github.com/UmerKhan1998))
+Muhammad Umer Khan - [GitHub Profile](https://github.com/UmerKhan1998)
 
 ---
 
