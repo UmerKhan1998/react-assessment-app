@@ -1,7 +1,5 @@
 # Platform X Marketplace
 
-![Platform X Marketplace]
-
 A modern React marketplace UI built with Next.js, Redux Toolkit, and Tailwind CSS. This application provides a complete user interface for browsing, filtering, and purchasing digital projects.
 
 ## 🚀 Features
