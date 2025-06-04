@@ -14,7 +14,7 @@ A modern React marketplace UI built with Next.js, Redux Toolkit, and Tailwind CS
 
 ## 🛠️ Technologies Used
 
-- **Next.js 14** - React framework
+- **Next.js 15** - React framework
 - **Redux Toolkit** - State management
 - **Tailwind CSS** - Styling
 - **Lucide React** - Icons
