@@ -33,7 +33,7 @@ Follow these steps to get the project running on your local machine:
 1. **Clone the repository**
 
 \`\`\`bash
-git clone https://github.com/yourusername/platform-x-marketplace.git
+git clone https://github.com/UmerKhan1998/react-assessment-app
 cd platform-x-marketplace
 \`\`\`
 
