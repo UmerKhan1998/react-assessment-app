@@ -135,20 +135,6 @@ View your wallet balance and purchase history:
    - Wait for the build to complete
    - Your application is now live!
 
-## 📸 Screenshots
-
-### Home Page
-![Home Page](https://placeholder.svg?height=200&width=400&text=Home+Page)
-
-### Project Details
-![Project Details](https://placeholder.svg?height=200&width=400&text=Project+Details)
-
-### Purchase Modal
-![Purchase Modal](https://placeholder.svg?height=200&width=400&text=Purchase+Modal)
-
-### Wallet View
-![Wallet View](https://placeholder.svg?height=200&width=400&text=Wallet+View)
-
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
@@ -165,8 +151,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👨‍💻 Author
 
-Your Name - [GitHub Profile]([https://github.com/yourusername](https://github.com/UmerKhan1998))
+Muhammad Umer Khan - [GitHub Profile]([https://github.com/yourusername](https://github.com/UmerKhan1998))
 
 ---
 
-Made with ❤️ using Next.js and Redux
+Made with ❤️ using Next.js and Redux Tool Kit(RTK)
