@@ -1,6 +1,6 @@
 # Platform X Marketplace
 
-![Platform X Marketplace](https://placeholder.svg?height=300&width=800&text=Platform+X+Marketplace)
+![Platform X Marketplace]([https://placeholder.svg?height=300&width=800&text=Platform+X+Marketplace](https://react-assessment-app.vercel.app/))
 
 A modern React marketplace UI built with Next.js, Redux Toolkit, and Tailwind CSS. This application provides a complete user interface for browsing, filtering, and purchasing digital projects.
 
